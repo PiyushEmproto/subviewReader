@@ -16,6 +16,7 @@
 		4BC1250327E887B700FF2798 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BC124F227E887B700FF2798 /* Assets.xcassets */; };
 		4BC1250427E887B700FF2798 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BC124F227E887B700FF2798 /* Assets.xcassets */; };
 		4BC1250C27E88A5100FF2798 /* UIView+Extn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC1250B27E88A5000FF2798 /* UIView+Extn.swift */; };
+		4BC1250E27E88C8800FF2798 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 4BC1250D27E88C8800FF2798 /* .travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4BC124FC27E887B700FF2798 /* SubviewReaderExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SubviewReaderExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BC124FE27E887B700FF2798 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		4BC1250B27E88A5000FF2798 /* UIView+Extn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extn.swift"; sourceTree = "<group>"; };
+		4BC1250D27E88C8800FF2798 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		4BC124D927E8872000FF2798 = {
 			isa = PBXGroup;
 			children = (
+				4BC1250D27E88C8800FF2798 /* .travis.yml */,
 				4BC124E527E8872000FF2798 /* SubviewReader */,
 				4BC124EF27E887B100FF2798 /* Shared */,
 				4BC124FD27E887B700FF2798 /* macOS */,
@@ -216,6 +219,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BC1250E27E88C8800FF2798 /* .travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
