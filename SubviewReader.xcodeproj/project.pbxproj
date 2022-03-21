@@ -62,10 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				4BC1250D27E88C8800FF2798 /* .travis.yml */,
-				4BC124E527E8872000FF2798 /* SubviewReader */,
-				4BC124EF27E887B100FF2798 /* Shared */,
 				4BC124FD27E887B700FF2798 /* macOS */,
 				4BC124E427E8872000FF2798 /* Products */,
+				4BC124EF27E887B100FF2798 /* Shared */,
+				4BC124E527E8872000FF2798 /* SubviewReader */,
 			);
 			sourceTree = "<group>";
 		};
